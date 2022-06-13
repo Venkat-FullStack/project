@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\Venkat-FullStack\project\ThreadLocking\ThreadLocking\obj\Debug\net6.0\ThreadLocking.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Venkat-FullStack\project\ThreadLocking\ThreadLocking\obj\Debug\net6.0\ThreadLocking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Venkat-FullStack\project\ThreadLocking\ThreadLocking\obj\Debug\net6.0\ThreadLocking.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Venkat-FullStack\project\ThreadLocking\ThreadLocking\obj\Debug\net6.0\ThreadLocking.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Venkat-FullStack\project\ThreadLocking\ThreadLocking\obj\Debug\net6.0\ThreadLocking.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Venkat-FullStack\project\ThreadLocking\ThreadLocking\bin\Debug\net6.0\ThreadLocking.exe
+C:\Users\Hp\source\repos\Venkat-FullStack\project\ThreadLocking\ThreadLocking\bin\Debug\net6.0\ThreadLocking.deps.json
+C:\Users\Hp\source\repos\Venkat-FullStack\project\ThreadLocking\ThreadLocking\bin\Debug\net6.0\ThreadLocking.runtimeconfig.json
+C:\Users\Hp\source\repos\Venkat-FullStack\project\ThreadLocking\ThreadLocking\bin\Debug\net6.0\ThreadLocking.dll
+C:\Users\Hp\source\repos\Venkat-FullStack\project\ThreadLocking\ThreadLocking\bin\Debug\net6.0\ThreadLocking.pdb
+C:\Users\Hp\source\repos\Venkat-FullStack\project\ThreadLocking\ThreadLocking\obj\Debug\net6.0\ThreadLocking.dll
+C:\Users\Hp\source\repos\Venkat-FullStack\project\ThreadLocking\ThreadLocking\obj\Debug\net6.0\refint\ThreadLocking.dll
+C:\Users\Hp\source\repos\Venkat-FullStack\project\ThreadLocking\ThreadLocking\obj\Debug\net6.0\ThreadLocking.pdb
+C:\Users\Hp\source\repos\Venkat-FullStack\project\ThreadLocking\ThreadLocking\obj\Debug\net6.0\ThreadLocking.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Venkat-FullStack\project\ThreadLocking\ThreadLocking\obj\Debug\net6.0\ref\ThreadLocking.dll

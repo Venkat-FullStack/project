@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\Venkat-FullStack\project\threadPriorities\threadPriorities\bin\Debug\net6.0\threadPriorities.exe
+C:\Users\Hp\source\repos\Venkat-FullStack\project\threadPriorities\threadPriorities\bin\Debug\net6.0\threadPriorities.deps.json
+C:\Users\Hp\source\repos\Venkat-FullStack\project\threadPriorities\threadPriorities\bin\Debug\net6.0\threadPriorities.runtimeconfig.json
+C:\Users\Hp\source\repos\Venkat-FullStack\project\threadPriorities\threadPriorities\bin\Debug\net6.0\threadPriorities.dll
+C:\Users\Hp\source\repos\Venkat-FullStack\project\threadPriorities\threadPriorities\bin\Debug\net6.0\threadPriorities.pdb
+C:\Users\Hp\source\repos\Venkat-FullStack\project\threadPriorities\threadPriorities\obj\Debug\net6.0\threadPriorities.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Venkat-FullStack\project\threadPriorities\threadPriorities\obj\Debug\net6.0\threadPriorities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Venkat-FullStack\project\threadPriorities\threadPriorities\obj\Debug\net6.0\threadPriorities.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Venkat-FullStack\project\threadPriorities\threadPriorities\obj\Debug\net6.0\threadPriorities.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Venkat-FullStack\project\threadPriorities\threadPriorities\obj\Debug\net6.0\threadPriorities.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Venkat-FullStack\project\threadPriorities\threadPriorities\obj\Debug\net6.0\threadPriorities.dll
+C:\Users\Hp\source\repos\Venkat-FullStack\project\threadPriorities\threadPriorities\obj\Debug\net6.0\refint\threadPriorities.dll
+C:\Users\Hp\source\repos\Venkat-FullStack\project\threadPriorities\threadPriorities\obj\Debug\net6.0\threadPriorities.pdb
+C:\Users\Hp\source\repos\Venkat-FullStack\project\threadPriorities\threadPriorities\obj\Debug\net6.0\threadPriorities.genruntimeconfig.cache
+C:\Users\Hp\source\repos\Venkat-FullStack\project\threadPriorities\threadPriorities\obj\Debug\net6.0\ref\threadPriorities.dll
